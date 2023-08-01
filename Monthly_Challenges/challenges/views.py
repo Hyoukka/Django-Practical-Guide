@@ -14,7 +14,7 @@ monthly_challenges = {
     "september": "This is september",
     "october": "This is october",
     "november": "This is november",
-    "december": "This is december",
+    "december": None,
 }
 
 
